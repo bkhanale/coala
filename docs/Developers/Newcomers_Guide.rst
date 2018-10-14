@@ -192,7 +192,9 @@ Step 2. Picking Up an Issue
 ---------------------------
 
 Now it is time to pick an issue.
-It is the best way to familiarise yourself with the codebase.
+It is the best way to familiarise yourself with the codebase and the
+coala contribution guidelines.
+
 You can view `all Newcomer issues on GitHub <https://coala.io/new>`_.
 
 .. important::
@@ -207,10 +209,34 @@ The easy issues that will help you get started are labeled as
 ``difficulty/newcomer`` and are only there to give you a glimpse of what
 it's like to work with us and what the workflow is like.
 
+The coala community creates a constant supply of ``newcomer`` issues available
+for people like you who are joining the organisation, so that you can learn
+how to contribute according to the coala organisation development guides,
+while doing a real task at the same time.
+
+coala does **not** follow the GitHub "flow" workflow, so be sure to read
+our guides carefully. You will need to use the ``git`` command line.
+During the newcomer process, we will help you conquer ``git``, so that you
+can become a part of our super efficient developer team.
+
+If you do not follow the coala workflow, our bots will get grumpy, and
+members of our community will try to help you in every way possible to
+get your Pull Request merged, the coala way.
+
+Your Pull Request will **not** be accepted until it complies with coala
+standards, even if your solution is amazingly correct.  If you ignore the
+bots or our developers, or you close your Pull Request, we will have
+no option except to conclude that you have abandoned the coala newcomer
+process, and your amazing solution **will** be discarded.  Luckily, all
+newcomer issues are very simple, so no tears will be shed if you decide
+that you do not want to complete your work according to the coala guidelines.
+We may nudge you to finish your Pull Request, but eventually a maintainer
+will close incomplete Pull Request, and your newcomer issue will be returned
+to the available queue, ready for the next person learning the coala workflow.
+
 Now pick an issue which isn't assigned and which you would like to fix.
 Leave a comment that you would like to be assigned to the issue. This way
 we don't have multiple people working on the same issue at the same time.
-Now you can start working on it!
 
 .. caution::
 
